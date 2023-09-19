@@ -7,3 +7,5 @@ The goal of this project was to demonstrate my knowledge aquired over 10 weeks o
 Skill outcomes:
   1) demonstrated proficiency in C
   2) demonstrated use of navigating within terminal
+
+This project was the most challenging because it involved little guidance from TA's and allowed more freedom in my individual approach to solving the problem.
