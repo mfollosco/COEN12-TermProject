@@ -1,0 +1,23 @@
+Application 3
+
+Function Runtimes:
+-----------------
+createDataSet: O(n) 
+destroyDataSet: O(n)
+searchAge: O(1)
+searchID: O(n)
+insert: O(1)
+deletion: O(n)
+maxAgeGap: O(1)
+
+Approach:
+--------
+I chose a hash chaining approach since we did not know the the max
+number of students. This means our data structure had to be dynamic.
+I used linked lists to account for this. An array wouldn't be as 
+efficient since you would need to reallocate memory once you hit 
+the limit on you array size. Also linked lists are more efficient 
+in insertion and deletion than arrays since no shifting has to be
+done. A circularly linked list was helpful in traversal of the
+whole list.
+

@@ -1,0 +1,19 @@
+Application 1
+
+Function Runtimes:
+-----------------
+createDataSet: O(n)
+destroyDataSet: O(n)
+searchAge: O(1)
+insert: O(1)
+deletion: O(n)
+maxAgeGap: O(1)
+
+Approach:
+--------
+I chose a hash chaining approach. Technically I could have implemented
+with an array since we were given the max number of students however I
+found hashing to be more efficient, especially with lots of search
+operations. A circularly linked list was helpful in traversal of the 
+whole list.
+
