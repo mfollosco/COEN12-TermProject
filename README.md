@@ -1,4 +1,3 @@
-# COEN12-TermProject
 The goal of this project was to demonstrate my knowledge aquired over 10 weeks of my Data Structures and algorithims class. In this project I: 
 1) chose and implemented the most efficient data stucture for the specific scenatio (specified in project outlines)
 2) leveraged dynamic memory allocation for a reduced memory footprint
